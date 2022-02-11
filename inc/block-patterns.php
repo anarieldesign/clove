@@ -288,7 +288,7 @@ if ( function_exists( 'register_block_pattern' ) ) {
 				<!-- /wp:paragraph -->
 				
 				<!-- wp:paragraph {"align":"center","fontSize":"small"} -->
-				<p class="has-text-align-center has-small-font-size"><a href="#">' . esc_html_x( 'PORTOLIO', 'sample content', 'clove' ) . '</a></p>
+				<p class="has-text-align-center has-small-font-size"><a href="#">' . esc_html_x( 'PORTFOLIO', 'sample content', 'clove' ) . '</a></p>
 				<!-- /wp:paragraph --></div>
 				<!-- /wp:column -->
 				
